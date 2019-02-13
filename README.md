@@ -3,14 +3,9 @@ A repo with links to the datasets proposed for the team projects for Information
 
 ## OmniArt Dataset
 
-### Artist Attribution
+This is a chunk of 1.4M metadata entries from the dataset. Feel free to explore and use a subset that you want to use for your visualizatinos:
 
-### General Type
-
-### Creation Periods
-
-### Styles
-
+https://drive.google.com/open?id=14L5Kdy9ma-Xhyf9SnJH_DGFkkF85E73Y
 
 ## Amsterdam Dataset
 
