@@ -18,3 +18,5 @@ https://snap.stanford.edu/data/web-flickr.html
 ## N_O_W_H_E_R_E Dataset
 
 https://docs.google.com/spreadsheets/d/1Do7IhRlmDbVWsERhEHfK-5hFdOUcClq3yqKdSV9Trwc/edit?usp=sharing
+
+Naming file: https://docs.google.com/spreadsheets/d/1GpigBVUgxR9T-oKOsld1CORr_SlKZSdx12iI6ztIJKg/edit?usp=sharing
